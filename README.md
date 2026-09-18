@@ -1,5 +1,5 @@
 # Pokemon Discord Bot
-
+**Powered By Vi3ecode.com**
 Discord sunucunuzda çalıştırabileceğiniz basit bir Pokemon botu. Rastgele Pokemon oluşturup geliştime, eğit ve diğer kullanıcılarla savaş.
 
 ## Komutlar
